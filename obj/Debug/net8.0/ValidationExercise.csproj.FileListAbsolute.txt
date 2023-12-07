@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Desco Projetos\c#\ValidationExercise\bin\Debug\net8.0\ValidationExercise.exe
+C:\Users\Dell\Desktop\Desco Projetos\c#\ValidationExercise\bin\Debug\net8.0\ValidationExercise.deps.json
+C:\Users\Dell\Desktop\Desco Projetos\c#\ValidationExercise\bin\Debug\net8.0\ValidationExercise.runtimeconfig.json
+C:\Users\Dell\Desktop\Desco Projetos\c#\ValidationExercise\bin\Debug\net8.0\ValidationExercise.dll
+C:\Users\Dell\Desktop\Desco Projetos\c#\ValidationExercise\bin\Debug\net8.0\ValidationExercise.pdb
+C:\Users\Dell\Desktop\Desco Projetos\c#\ValidationExercise\obj\Debug\net8.0\ValidationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Desco Projetos\c#\ValidationExercise\obj\Debug\net8.0\ValidationExercise.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Desco Projetos\c#\ValidationExercise\obj\Debug\net8.0\ValidationExercise.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Desco Projetos\c#\ValidationExercise\obj\Debug\net8.0\ValidationExercise.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Desco Projetos\c#\ValidationExercise\obj\Debug\net8.0\ValidationExercise.sourcelink.json
+C:\Users\Dell\Desktop\Desco Projetos\c#\ValidationExercise\obj\Debug\net8.0\ValidationExercise.dll
+C:\Users\Dell\Desktop\Desco Projetos\c#\ValidationExercise\obj\Debug\net8.0\refint\ValidationExercise.dll
+C:\Users\Dell\Desktop\Desco Projetos\c#\ValidationExercise\obj\Debug\net8.0\ValidationExercise.pdb
+C:\Users\Dell\Desktop\Desco Projetos\c#\ValidationExercise\obj\Debug\net8.0\ValidationExercise.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Desco Projetos\c#\ValidationExercise\obj\Debug\net8.0\ref\ValidationExercise.dll

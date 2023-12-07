@@ -1,8 +1,13 @@
 ﻿using ValidationExercise.Models;
 
-Person p1 = new Person();
-p1.Name = "Laura";
-p1.LastName = "Andrade";
-p1.Age = 23;
-p1.ToPresent();
+Person p1 = new Person(name: "Laura",lastname: "Andrade");
+Person p2 = new Person(name: "John", lastname: "Wayne");
+
+Class englishClass = new Class();
+englishClass.Name = "English";
+englishClass.Students = new List<Person>();
+
+englishClass.AddStudent(p1);
+englishClass.AddStudent(p2);
+englishClass.ListStudents();
 

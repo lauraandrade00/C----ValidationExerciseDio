@@ -7,6 +7,17 @@ namespace ValidationExercise.Models
 {
     public class Person
     {
+        public Person() 
+        {
+
+        }
+
+        public Person(string name, string lastname)
+        {
+            Name = name;
+            LastName = lastname;
+        }
+
         private string _name;
         private int _age;
         public string Name 
@@ -18,6 +29,8 @@ namespace ValidationExercise.Models
                 {
                     throw new ArgumentException("Name cannot be empty.");
                 }
+
+                _name = value;
             } 
         }
 
@@ -33,6 +46,8 @@ namespace ValidationExercise.Models
                 {
                     throw new ArgumentException("Age cannot be negative.");
                 }
+
+                _age = value;
             } 
         }
 
