@@ -28,11 +28,12 @@ namespace ValidationExercise.Models
         public void ListStudents() 
         {
             Console.WriteLine($"English's class students: {Name}");
-            foreach(Person student in Students)
+
+            for(int count = 0; count < Students.Count; count++)
             {
-                Console.WriteLine(student.CompletName);
+                string text = $"N° {count + 1} - {Students[count].CompletName}";
+                Console.WriteLine(text);
             }
         }
-
     }
 }
